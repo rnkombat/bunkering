@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bunkering/static/css/main.ec20f6d8.css",
+    "main.js": "/bunkering/static/js/main.b8e5cd3d.js",
+    "index.html": "/bunkering/index.html",
+    "main.ec20f6d8.css.map": "/bunkering/static/css/main.ec20f6d8.css.map",
+    "main.b8e5cd3d.js.map": "/bunkering/static/js/main.b8e5cd3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec20f6d8.css",
+    "static/js/main.b8e5cd3d.js"
+  ]
+}
